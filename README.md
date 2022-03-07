@@ -31,9 +31,16 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Sara Hernández
 - Realizar alguna actividad física. 
 - Descubrir otras visiones para mirar otros mundos.
 - Observar la naturaleza
 =======
 
+=======
+* Sara Hernández
+- Realizar alguna actividad física. 🏃‍♀️
+- Descubrir otras visiones para mirar otros mundos.🗺
+- Observar la naturaleza 🌟
+>>>>>>> 42ac0841ebb18d2022789fe02d478da530c535c6
